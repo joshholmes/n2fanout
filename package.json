@@ -1,0 +1,30 @@
+{
+  "name": "n2fanout",
+  "homepage": "https://github.com/joshholmes/n2fanout",
+  "author": "Josh Holmes <josh@joshholmes.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/joshholmes/n2fanout/blob/master/LICENSE"
+    }
+  ],
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshholmes/n2fanout.git"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "nitrogen": "~0.2.21",
+    "nitrogen-cli": "~0.2.8",
+    "nitrogen-file-store": "~0.2.0"
+  },
+  "keywords": [
+    "devices",
+    "iot",
+    "nitrogen",
+    "arduino",
+    "yun",
+    "arduino yun"
+  ]
+}
